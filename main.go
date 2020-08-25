@@ -36,10 +36,9 @@ func WriteToReadme(context, author string) {
 	}
 
 	message = append(message[:], []byte("\n**Quote of the day**\n")...)
-	message = append(message[:], []byte(`> <span style="color:black;font-family:'Raleway',sans-serif;">`)...)
-	message = append(message[:], []byte(context)...)
-	message = append(message[:], []byte("</span>\n\n")...)
-	message = append(message[:], []byte(`<div style="display:flex;padding-left:32px;"><span style="">- `+author+`</span></div>`)...)
+	message = append(message[:], []byte(`> `+context+``)...)
+	message = append(message[:], []byte("\n\n")...)
+	message = append(message[:], []byte(`-`+author+``)...)
 
 	// write the whole body at once
 	err = ioutil.WriteFile("README.md", message, 0644)
