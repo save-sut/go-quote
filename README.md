@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> I care not only what the code says but how it looks.
 
--Douglas Crockford
+-Peter Roizen
