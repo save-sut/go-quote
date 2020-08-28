@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I care not only what the code says but how it looks.
+> Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
--Peter Roizen
+-Richard Hamming
