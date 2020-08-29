@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 
--Richard Hamming
+-Fred Brooks
