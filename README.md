@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
--Fred Brooks
+-Edsger W. Dijkstra
