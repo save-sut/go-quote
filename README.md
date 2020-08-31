@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> The most important single aspect of software development is to be clear about what you are trying to build.
 
--Edsger W. Dijkstra
+-Bjarne Stroustrup
