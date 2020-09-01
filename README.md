@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The most important single aspect of software development is to be clear about what you are trying to build.
+> In handling resources, strive to avoid disaster rather than to attain an optimum.
 
--Bjarne Stroustrup
+-Butler Lampson
