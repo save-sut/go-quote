@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Much of the essence of building a program is in fact the debugging of the specification.
+> The cheapest, fastest, and most reliable components are those that aren’t there.
 
--Fred Brooks
+-Gordon Bell
