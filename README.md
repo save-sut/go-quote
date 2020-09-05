@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The cheapest, fastest, and most reliable components are those that aren’t there.
+> I think programming is very much a religious experience for a lot of people.
 
--Gordon Bell
+-Gary Kildall
