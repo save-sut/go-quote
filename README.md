@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I think programming is very much a religious experience for a lot of people.
+> If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
--Gary Kildall
+-Edsger W. Dijkstra
