@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
--Edsger W. Dijkstra
+-Gottfried Wilhelm Leibniz
