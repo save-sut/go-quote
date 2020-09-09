@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> A number of studies have shown testing not very effective at finding bugs.
+> What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 
--Daniel T. Barry
+-Steve Jobs
