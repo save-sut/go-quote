@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
--Steve Jobs
+-Danny Hillis
