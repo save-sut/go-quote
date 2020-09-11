@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
--Danny Hillis
+-Harlan Mills
