@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 
--Harlan Mills
+-Alan Perlis
