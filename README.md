@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 
--Marijn Haverbeke
+-Daniel T. Barry
