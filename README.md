@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 
--Kent Beck
+-Danny Hillis
