@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
--Danny Hillis
+-Brian Kernighan
