@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
--Brian Kernighan
+-Linus Torvalds
