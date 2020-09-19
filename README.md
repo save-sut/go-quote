@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> If you have a procedure with 10 parameters, you probably missed some.
 
--Linus Torvalds
+-Alan Perlis
