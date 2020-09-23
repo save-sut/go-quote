@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I think you should always bear in mind that entropy is not on your side.
+> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
--Elon Musk
+-Richard Hamming
