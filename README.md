@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
--Richard Hamming
+-Ted Nelson
