@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
--Elon Musk
+-Ken Thompson
