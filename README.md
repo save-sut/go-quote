@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 
--Ken Thompson
+-Eric S. Raymond
