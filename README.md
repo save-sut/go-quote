@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The button is working, only, it cannot be seen.
+> Just because you've implemented something doesn't mean you understand it.
 
--Anonymous
+-Brian Cantwell Smith
