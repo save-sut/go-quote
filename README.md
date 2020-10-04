@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Never memorize something that you can look up.
+> Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
--Albert Einstein
+-Linus Torvalds
