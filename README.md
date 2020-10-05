@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
--Linus Torvalds
+-Poul Anderson
