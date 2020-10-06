@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> Debugging time increases as a square of the program’s size.
 
--Poul Anderson
+-Chris Wenham
