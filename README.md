@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Debugging time increases as a square of the program’s size.
+> The manager's function is not to make people work, but to make it possible for people to work.
 
--Chris Wenham
+-Tom DeMarco
