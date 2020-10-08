@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The manager's function is not to make people work, but to make it possible for people to work.
+> There are few sources of energy so powerful as a procrastinating grad student.
 
--Tom DeMarco
+-Paul Graham (programmer)
