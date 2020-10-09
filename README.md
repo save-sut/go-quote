@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> There are few sources of energy so powerful as a procrastinating grad student.
+> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
--Paul Graham (programmer)
+-Ken Thompson
