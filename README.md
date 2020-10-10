@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
--Ken Thompson
+-Douglas Crockford
