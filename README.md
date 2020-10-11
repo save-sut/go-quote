@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
--Douglas Crockford
+-Fred Brooks
