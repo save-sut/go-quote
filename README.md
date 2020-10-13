@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> A computer shall not waste your time or require you to do more work than is strictly necessary.
+> The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 
--Jef Raskin
+-Fred Brooks
