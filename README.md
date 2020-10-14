@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> We who cut mere stones must always be envisioning cathedrals.
 
--Fred Brooks
+-Quarry worker's creed
