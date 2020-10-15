@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> We who cut mere stones must always be envisioning cathedrals.
+> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
--Quarry worker's creed
+-Harlan Mills
