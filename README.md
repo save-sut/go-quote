@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Code never lies, comments sometimes do.
+> I have no special talent. I am only passionately curious.
 
--Ron Jeffries
+-Albert Einstein
