@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> I have no special talent. I am only passionately curious.
+> Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 
--Albert Einstein
+-Chris Sacca
