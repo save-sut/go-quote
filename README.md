@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> The next best thing to having good ideas is recognizing good ideas from your users.
 
--Fred Brooks
+-Eric S. Raymond
