@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
--Ivan Sutherland
+-Charles Babbage
