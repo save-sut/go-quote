@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> A language that doesn't affect the way you think about programming, is not worth knowing.
+> Never trust a computer you can’t throw out a window.
 
--Alan Perlis
+-Steve Wozniak
