@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Never trust a computer you can’t throw out a window.
+> Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
--Steve Wozniak
+-Daniel T. Barry
