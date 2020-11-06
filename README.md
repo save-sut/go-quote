@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 
--Daniel T. Barry
+-Richard P. Gabriel
