@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
--Richard P. Gabriel
+-P. J. Plauger
