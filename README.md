@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
--P. J. Plauger
+-Marvin Minsky
