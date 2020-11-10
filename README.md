@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
--Steve McConnell
+-Maurice Wilkes
