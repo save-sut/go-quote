@@ -10,6 +10,6 @@ the script will generate a programming quote for you then he will create a new R
 ***
 
 **Quote of the day**
-> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 
--Maurice Wilkes
+-Mark Gibbs
